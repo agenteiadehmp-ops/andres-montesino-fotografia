@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1400" height="440" viewBox="0 0 1400 440">
+<title>Andrés Montesino — boceto vectorial editable</title>
+<desc>Reconstrucción vectorial del concepto 3. Fondo transparente. Grupos independientes: monograma AM, separador y textos editables. Abrir en Adobe Illustrator y guardar como AI. Fuente prevista: Montserrat ExtraBold (peso 800) para nombre y Montserrat Regular para descriptor. Instalar Montserrat para conservar la apariencia; si no está instalada, Illustrator puede sustituirla. Las letras del nombre permanecen como texto editable. El monograma consta de dos polígonos editables. Es una reconstrucción del boceto generado, no una reproducción tipográfica exacta.</desc>
+<g id="Monograma_AM" fill="#191919">
+ <path id="Letra_A" d="M80 345 L187 201 L293 345 L239 345 L187 274 L134 345 Z"/>
+ <path id="Letra_M" d="M203 170 L231 132 L302 229 L402 132 L436 132 L436 345 L385 345 L385 216 L300 299 Z"/>
+</g>
+<g id="Separador" fill="#191919"><rect x="478" y="105" width="4" height="268"/></g>
+<g id="Textos_editables" fill="#191919" font-family="Montserrat, Arial, sans-serif">
+ <text id="Nombre_ANDRES" x="520" y="198" font-size="99" font-weight="800" letter-spacing="-3">ANDRÉS</text>
+ <text id="Apellido_MONTESINO" x="520" y="302" font-size="99" font-weight="800" letter-spacing="-3">MONTESINO</text>
+ <text id="Descriptor_FOTOGRAFIA" x="523" y="370" font-size="35" font-weight="400" letter-spacing="20">FOTOGRAFÍA</text>
+</g>
+</svg>
